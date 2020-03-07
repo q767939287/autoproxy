@@ -1,4 +1,4 @@
-[AutoProxy 0.2.9]
+[AutoProxy 0.3.0]
 www.getchu.com/
 ||www.getchu.com
 login.kanpani.jp/
